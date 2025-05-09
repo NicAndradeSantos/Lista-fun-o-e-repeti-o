@@ -1,1 +1,1 @@
-# Lista-fun-o-e-repeti-o
+Lista,repetição,função
